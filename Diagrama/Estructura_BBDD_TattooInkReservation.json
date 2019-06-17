@@ -1,0 +1,175 @@
+{
+  "administrators" : {
+    "-Lg8itlMML3jOsSynO8g" : {
+      "uid" : "9J39jIBLV8SCGvJRVp6KZpjdWBp2"
+    },
+    "-Lg8itl_bxSMyxpKhalg" : {
+      "uid" : "ojSPqWmFzeeQBEN2rVoiUrp7ppw1"
+    }
+  },
+  "anonymous" : {
+    "uid" : "anonymous12321Uv"
+  },
+  "anonymousAccounts" : {
+    "Accounts" : {
+      "-Lh0BkmR2_GVxmBWsNbw" : {
+        "name" : "as",
+        "uid" : "anonymous12321Uv"
+      },
+      "-Lh2IqX2HCdeo_xaAosC" : {
+        "name" : "pepe",
+        "uid" : "anonymous12321Uv"
+      }
+    }
+  },
+  "employees" : {
+    "alberto_rodriguez" : {
+      "email" : "alberto.rodri.sala@gmail.com",
+      "name" : "Alberto",
+      "nameTimeTable" : "alberto_rodriguez",
+      "phone" : 672398173,
+      "surname" : "Rodriguez Sala"
+    },
+    "jose_donascimento" : {
+      "email" : "pepe.de.los.huevos.repe@gmail.com",
+      "name" : "Jose",
+      "nameTimeTable" : "jose_donascimento",
+      "phone" : 679587204,
+      "surname" : "Donascimento Martinez"
+    }
+  },
+  "photosUrlHome" : {
+    "-Lg97GGGbXBjJlfm0hqF" : {
+      "creationDate" : 1559243068144,
+      "title" : "El colibri",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tattoo-ink-cloud-c8382.appspot.com/o/photosHome%2Fphoto_1_tattoo_home.jpg?alt=media&token=94e5d690-faec-42f4-af54-af56d8c2624e"
+    },
+    "-Lg97tMiFzFPZX8wMKSC" : {
+      "creationDate" : 1559243232393,
+      "title" : "El sentimentalista",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tattoo-ink-cloud-c8382.appspot.com/o/photosHome%2Fphoto_3_tattoo_home.jpg?alt=media&token=4bbe3f7e-7926-43c0-990f-9e80d1aadf42"
+    },
+    "-Lg97tMzOl7jUm2gDqN1" : {
+      "creationDate" : 1559243232411,
+      "title" : "El corredor del tiempo",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tattoo-ink-cloud-c8382.appspot.com/o/photosHome%2Fphoto_2_tattoo_home.png?alt=media&token=e2f5ac47-8273-4c40-aebf-66817c1740d2"
+    },
+    "-LhTOcWZ9j7wgrdSTAeU" : {
+      "creationDate" : 1560661175170,
+      "title" : "El Tatuador",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tattoo-ink-cloud-c8382.appspot.com/o/photosHome%2FimgPrincipal.jpg?alt=media&token=e748f14e-910e-4670-9549-ab5b50697515"
+    }
+  },
+  "tattooShops" : {
+    "-Lf0JBoNrJ6IX0_qtINX" : {
+      "address" : "C/Pizarro, n18",
+      "email" : "tattooShop@gmail.com",
+      "name" : "Tatto sl",
+      "phone" : "123456789"
+    }
+  },
+  "tattooType" : {
+    "grande" : {
+      "approxPrice" : 400,
+      "duration" : 240,
+      "maxMeasure" : "30x30",
+      "minMeasure" : "15x15"
+    },
+    "mediano" : {
+      "approxPrice" : 200,
+      "duration" : 90,
+      "maxMeasure" : "15x15",
+      "minMeasure" : "7,5x7,5"
+    },
+    "pequeño" : {
+      "approxPrice" : 60,
+      "duration" : 30,
+      "maxMeasure" : "7,5x7,5",
+      "minMeasure" : "2,5x2,5"
+    }
+  },
+  "timeTableShop" : {
+    "holidays" : {
+      "2019-06-24" : {
+        "endDate" : "2019-06-24T23:59:59",
+        "startDate" : "2019-06-24T00:00:00"
+      }
+    },
+    "scheduleShop" : [ {
+      "endDate" : "24:00",
+      "startDate" : "00:00"
+    }, {
+      "endDate" : "20:00",
+      "startDate" : "10:50"
+    }, {
+      "endDate" : "20:00",
+      "startDate" : "10:00"
+    }, {
+      "endDate" : "20:00",
+      "startDate" : "10:00"
+    }, {
+      "endDate" : "20:00",
+      "startDate" : "10:00"
+    }, {
+      "endDate" : "14:30",
+      "startDate" : "10:00"
+    }, {
+      "endDate" : "14:00",
+      "startDate" : "10:00"
+    } ]
+  },
+  "timeTables" : {
+    "alberto_rodriguez" : {
+      "julio" : {
+        "2019-07-16" : {
+          "-Lh1cx9Lctnurbojjsr3" : {
+            "displayName" : "as",
+            "endDate" : "2019-07-16T15:15:00",
+            "startDate" : "2019-07-16T13:45:00",
+            "uidClient" : "anonymous12321Uv"
+          }
+        },
+        "2019-07-18" : {
+          "-Lh1n0A1fBbZBUhrkAPY" : {
+            "displayName" : "as",
+            "endDate" : "2019-07-18T22:00:00",
+            "startDate" : "2019-07-18T18:00:00",
+            "uidClient" : "anonymous12321Uv"
+          }
+        }
+      },
+      "junio" : {
+        "2019-06-19" : {
+          "-LhWNRKJXdsSSGfXiw_1" : {
+            "displayName" : "For And",
+            "endDate" : "2019-06-19T10:30:00",
+            "startDate" : "2019-06-19T10:00:00",
+            "uidClient" : "AfYfUAlQBWawpW53kXp1mK9zsix1"
+          }
+        }
+      },
+      "septiembre" : {
+        "2019-09-26" : {
+          "-Lh2mScZFJncfKR-VXbr" : {
+            "displayName" : "as",
+            "endDate" : "2019-09-26T14:30:00",
+            "startDate" : "2019-09-26T14:00:00",
+            "uidClient" : "anonymous12321Uv"
+          }
+        }
+      }
+    },
+    "jose_donascimento" : {
+      "junio" : {
+        "2019-06-19" : {
+          "-LhWUdKDb4u2caiEsWdd" : {
+            "displayName" : "For And",
+            "endDate" : "2019-06-19T10:30:00",
+            "startDate" : "2019-06-19T10:00:00",
+            "uidClient" : "AfYfUAlQBWawpW53kXp1mK9zsix1"
+          }
+        }
+      }
+    }
+  }
+}
